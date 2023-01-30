@@ -1,0 +1,54 @@
+/* RESET */
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/* COMMON */
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.highlight {
+    background-color: yellow;
+}
+
+/* HEADER */
+header {
+    background-color: lightgray;
+    border-bottom: 2px solid goldenrod;
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+.header-img {
+    width: 100px;
+}
+
+.header-title {
+    margin-top: 10px
+}
+
+/* MAIN */
+section {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.section-title {
+    font-size: 1.5rem;
+    color: goldenrod;
+    margin-bottom: 10px;
+}
+
+.section-subtitle {
+    font-size: 1rem;
+    font-style: italic;
+    margin-bottom: 10px;
+}
+
+.section-paragraph {
+    margin-bottom: 10px;
+}
